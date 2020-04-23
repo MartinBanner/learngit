@@ -5,3 +5,4 @@ Git tracks changes.
 Git tracks changes of files.
 New line.
 Creating a new branch is quick.
+Merge with no-ff.
